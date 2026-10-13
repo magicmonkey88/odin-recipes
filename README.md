@@ -18,4 +18,4 @@ The website will consist of the following:
 - **Creator:** amanderson2
 - **Source:** Flickr
 - **Licence:** [CC BY 2.0](https://creativecommons.org/licences/by/2.0/)
-- **MOdifications:** None
+- **Modifications:** None
