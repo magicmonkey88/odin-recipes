@@ -19,3 +19,5 @@ The website will consist of the following:
 - **Source:** Flickr
 - **Licence:** [CC BY 2.0](https://creativecommons.org/licences/by/2.0/)
 - **Modifications:** None
+### Vetkoek
+- AI-generated image created using OpenAI's ChatGPT
